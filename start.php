@@ -39,8 +39,8 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6">
-                    <img class="img-responsive" src="odkurzacz.jpg" alt="Inteligentny odkurzacz">
+                <div class="col-lg-6 embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/CmC62Eg82E8"></iframe>
                 </div>
                 <div class="col-lg-6 text-justify">
                     <p class="lead">

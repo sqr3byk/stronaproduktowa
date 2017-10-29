@@ -2,7 +2,7 @@
   $page = basename($_SERVER["SCRIPT_FILENAME"]);
 ?>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
       <div class="container">
         <a style="padding: 0;" class="navbar-brand" href="start.php">
           <img style="height: 2em"  src="logo.png" alt="Start Bootstrap">

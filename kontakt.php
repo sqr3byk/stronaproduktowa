@@ -49,8 +49,8 @@
                     <td>123456789</td>
                   </tr>
                   <tr class="feature-set hoverable-row">
-                    <td> </td>
-                    <td> </td>
+                    <td>Adres email</td>
+                    <td>odkurzaczfirmajp@gmail.com</td>
                   </tr>
                 </tbody>
               </table>

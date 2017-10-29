@@ -72,10 +72,10 @@
             <li>
               <table class="table comparison-chart">
                 <tbody>
-                  <tr class="headings">
+                  <tr class="headings bg-primary text-secondary">
                     <td class="neato" colspan="3">Product Dimensions</td>
                   </tr>
-                  <tr class="descriptions">
+                  <tr class="descriptions text-success">
                     <td>&nbsp;</td>
                     <td>Metric</td>
                     <td>U.S. Standard</td>
@@ -106,7 +106,7 @@
             <li>
               <table class="table comparison-chart">
                 <tbody>
-                  <tr class="headings">
+                  <tr class="headings bg-primary text-secondary">
                     <td colspan="2" class="neato">Technical</td>
                   </tr>
                   <tr class="feature-set hoverable-row">
@@ -123,7 +123,7 @@
             <li>
               <table class="table comparison-chart">
                 <tbody>
-                  <tr class="headings">
+                  <tr class="headings bg-primary text-secondary">
                     <td colspan="3" class="neato">Warranty Terms</td>
                   </tr>
                   <tr class="feature-set">

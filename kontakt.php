@@ -45,8 +45,8 @@
                     <td colspan="2" class="neato">Kontakt</td>
                   </tr>
                   <tr class="feature-set hoverable-row">
-                    <td> </td>
-                    <td> </td>
+                    <td>Telefon (24/7)</td>
+                    <td>123456789</td>
                   </tr>
                   <tr class="feature-set hoverable-row">
                     <td> </td>

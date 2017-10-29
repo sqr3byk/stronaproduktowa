@@ -38,10 +38,22 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h1 class="mt-5">Skontaktuj sie z nami, jak Ci wygodnie!</h1>
-          <p class="lead">Complete with pre-defined file paths and responsive navigation!</p>
           <ul class="list-unstyled">
-            <li>Bootstrap 4.0.0-beta</li>
-            <li>jQuery 3.2.1</li>
+	     <table class="table comparison-chart">
+                <tbody>
+                  <tr class="headings">
+                    <td colspan="2" class="neato">Kontakt</td>
+                  </tr>
+                  <tr class="feature-set hoverable-row">
+                    <td> </td>
+                    <td> </td>
+                  </tr>
+                  <tr class="feature-set hoverable-row">
+                    <td> </td>
+                    <td> </td>
+                  </tr>
+                </tbody>
+              </table>
           </ul>
         </div>
       </div>

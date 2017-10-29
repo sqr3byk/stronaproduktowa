@@ -4,7 +4,9 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="http://195239.sokrates.edu-cloud.uek.krakow.pl/stronaproduktowa/start.php">Start Bootstrap</a>
+        <a style="padding: 0;" class="navbar-brand" href="http://195239.sokrates.edu-cloud.uek.krakow.pl/stronaproduktowa/start.php">
+          <img style="height: 2em"  src="logo.png" alt="Start Bootstrap">
+        </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

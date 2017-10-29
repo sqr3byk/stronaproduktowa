@@ -40,7 +40,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/CmC62Eg82E8"></iframe>
+                    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/CmC62Eg82E8?autoplay=0&showinfo=0&controls=0&rel=0&iv_load_policy=3"></iframe>
                 </div>
                 <div class="col-lg-6 text-justify">
                     <p class="lead">

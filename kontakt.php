@@ -52,6 +52,10 @@
                     <td>Adres email</td>
                     <td>odkurzaczfirmajp@gmail.com</td>
                   </tr>
+		  <tr class="feature-set hoverable-row">
+		    <td>Numer Faks</td>
+                    <td>+69 12345678<td>
+	          </tr>
                 </tbody>
               </table>
           </ul>

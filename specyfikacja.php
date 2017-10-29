@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Czyściciel próżni - parametry techniczne">
 
-    <title>Parametry techniczne | Czyściciel próżni</title>
+    <title>Specyfikacja | Czyściciel próżni</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -58,13 +58,13 @@
   <body>
 
     <?php
-      include $_SERVER['DOCUMENT_ROOT'] . "/stronaproduktowa/nav.html";
+      include $_SERVER['DOCUMENT_ROOT'] . "/stronaproduktowa/nav.php";
     ?>
     <!-- Page Content -->
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h1 class="mt-5">Czyściciel próżni - dane techniczne</h1>
+          <h1 class="mt-5">Czyściciel próżni - specyfikacja</h1>
           <p style="margin-bottom:3em;" class="lead">
             Features a combo brush that is uniquely designed to pick up pet hair—and is quieter, too, especially on hard floors like wood and tile. Patented laser-guided technology scans and maps the room, plans, and methodically cleans, automatically moving from room to room. 50% larger brush, bigger-is-better dirt bin, extra large filter, and precise edge cleaning brush pick up more dirt and debris. Schedule daily cleanings or push a button for instant multi-room or spot cleaning. Automatically goes back to charge base, then returns to where it left off.
           </p>
